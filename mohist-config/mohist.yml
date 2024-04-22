@@ -1,0 +1,163 @@
+# This is the main configuration file for Mohist.
+# As you can see, there's tons to configure. Some options may impact gameplay, so use
+# with caution, and make sure you know what each option does before configuring.
+# For a reference for any variable inside this file, check out the Mohist wiki at
+# https://wiki.mohistmc.com/
+#
+# If you need help with the configuration or have any questions related to Spigot,
+# join us at the Discord or drop by our forums and leave a post.
+#
+# Discord: https://discord.gg/mohistmc
+# Forums: https://mohistmc.com/
+# Forums (CN): https://mohistmc.cn/
+
+anvilfix:
+  maximumrepaircost: 40
+  enchantment_fix: false
+  max_enchantment_level: 32767
+player_modlist_blacklist:
+  enable: false
+  list: []
+server_modlist_whitelist:
+  enable: false
+  list: '[betterdungeons, simplemagnets, integratedterminals, integratedterminalscompat,
+    laserio, modernfix, evilcraft, evilcraftcompat, useitemonblockevent, yungsapi,
+    gateways, jumbofurnace, wstweaks, shrink, universalgrid, darkutils, apotheosis,
+    clickadv, ldlib, create_new_age, betterfortresses, paraglider, cloth_config, durabilitytooltip,
+    structure_gel, industrialforegoing, handcrafted, repurposed_structures, structurecompass,
+    botania, spark, corail_woodcutter, advgenerators, yungsextras, attributeslib,
+    tombstone, extrastorage, cumulus_menus, naturesaura, constructionwand, mcwroofs,
+    littlelogistics, cfm, chimes, flib, betterendisland, nitrogen_internals, potionblender,
+    l2library, fastleafdecay, sfm, despawntimers, mcwlights, betterjungletemples,
+    smartbrainlib, rechiseled, attributefix, caelus, epherolib, botanypots, farmingforblockheads,
+    rechiseledcreate, additional_lights, fusion, extradisks, edivadlib, mythicbotany,
+    integratedcrafting, dungeons_arise, minecraft, logprot, terrablender, biomesoplenty,
+    cleanswing, corgilib, sushigocrafting, domum_ornamentum, flywheel, bhc, justenoughprofessions,
+    securitycraft, almostunified, structurize, fastfurnace, lootr, occultism, allthetweaks,
+    extremesoundmuffler, cosmeticarmorreworked, morered, ad_astra, rsrequestify, alchemylib,
+    advancedperipherals, tinyredstone, towntalk, betteroceanmonuments, sophisticatedcore,
+    glassential, prism, placebo, bookshelf, sophisticatedbackpacks, littlecontraptions,
+    uteamcore, mcwdoors, utilitarian, macawsroofsbop, absentbydesign, konkrete, rsinfinitybooster,
+    refinedstorage, chipped, mcwbridges, rebornstorage, tempad, hostilenetworks, endertanks,
+    jearchaeology, fuelgoeshere, simplylight, industrialforegoingsouls, blockui, tiab,
+    villagertools, mysticalcustomization, lostcities, elevatorid, runelic, twilightdelight,
+    inventoryprofilesnext, aiimprovements, moreoverlays, cupboard, voidscape, undergarden,
+    caupona, betteradvancements, platforms, dyenamics, thermal_extra, mcwpaintings,
+    clumps, artifacts, toastcontrol, mininggadgets, mysticalagriculture, craftingtweaks,
+    libipn, endermanoverhaul, eccentrictome, mysterious_mountain_lib, enderio, easy_villagers,
+    reliquary, pigpen, fastbench, fluxnetworks, buildinggadgets2, minecolonies, pylons,
+    ferritecore, functionalstorage, modularrouters, notrample, justzoom, charmofundying,
+    valhelsia_core, create_enchantment_industry, flickerfix, productivetrees, createaddition,
+    dynamiclightsreforged, supermartijn642configlib, quarryplus, playeranimator, irons_spellbooks,
+    botarium, mcwwindows, create_jetpack, ironjetpacks, everythingcopper, powah, cabletiers,
+    rangedpumps, macawsbridgesbop, balm, jeresources, shetiphiancore, mysticalagradditions,
+    ctov, athena, stylecolonies, novillagerdm, alltheores, glodium, ae2insertexportcard,
+    torchmaster, botanytrees, ironfurnaces, mcwtrpdoors, supermartijn642corelib, resourcefulconfig,
+    ad_astra_giselle_addon, curios, searchables, measurements, framedblocks, angelring,
+    sparsestructuresreforged, mcwfurnitures, flightlib, jadeaddons, infiniverse, bettermineshafts,
+    sliceanddice, darkpaintings, crafting_on_a_stick, elytraslot, harvestwithease,
+    multipiston, lithostitched, bdlib, travelersbackpack, naturescompass, jumpboat,
+    libx, utilitix, jei, mekanism, gravitationalmodulatingunittweaks, mekanismgenerators,
+    pneumaticcraft, packingtape, forge, cofh_core, thermal, thermal_integration, redstone_arsenal,
+    thermal_cultivation, appleskin, thermal_innovation, silentgear, thermal_foundation,
+    thermal_locomotion, thermal_dynamics, mcwpaths, alchemistry, zerocore, mousetweaks,
+    immersiveengineering, usefulrailroads, createoreexcavation, nochatreports, allthemodium,
+    spectrelib, kotlinforforge, pipez, integrateddynamics, integrateddynamicscompat,
+    itemcollectors, croptopia, serverconfigupdater, polymorph, zeta, entityculling,
+    railcraft, oceansdelight, connectedglass, hyperbox, aquaculture, cristellib, totw_modded,
+    cyclopscore, blue_skies, betterwitchhuts, netherportalfix, aiotbotania, geckolib,
+    creeperoverhaul, ars_nouveau, ars_elemental, eidolon, aether, lost_aether_content,
+    morejs, naturalist, connectivity, cookingforblockheads, controlling, dankstorage,
+    citadel, cataclysm, mixinextras, potionsmaster, twigs, create_dragon_lib, generatorgalore,
+    railways, twilightforest, mob_grinding_utils, farmersdelight, corn_delight, ends_delight,
+    entangled, commoncapabilities, crashutilities, getittogetherdrops, endersdelight,
+    noflyzone, mcwfences, mcwfencesbop, wirelesschargers, patchouli, ars_ocultas,
+    thermal_expansion, integratedtunnels, integratedtunnelscompat, gunpowderlib, exchangers,
+    ftbultimine, betterstrongholds, resourcefullib, mekanismtools, deeperdarker, architectury,
+    bambooeverything, findme, observable, ftblibrary, ftbteams, ftbranks, ftbessentials,
+    ftbchunks, computercraft, energymeter, sgjourney, bigreactors, productivebees,
+    trashcans, inventoryessentials, t_and_t, voidtotem, rhino, kubejs, gtceu, cucumber,
+    matc, trashslot, jmi, blueflame, sophisticatedstorage, allthewizardgear, additionallanterns,
+    itemfilters, ftbquests, ftbxmodcompat, productivelib, ensorcellation, create,
+    ars_creo, delightful, ponderjs, waystones, structory, fastsuite, journeymap, comforts,
+    dimstorage, myserveriscompatible, dungeoncrawl, charginggadgets, mcjtylib, rftoolsbase,
+    rftoolspower, rftoolsbuilder, deepresonance, xnet, xnetgases, rftoolsstorage,
+    rftoolscontrol, betterdeserttemples, mahoutsukai, terralith, bloodmagic, rftoolsutility,
+    moonlight, configuration, toolbelt, titanium, silentlib, mixinsquared, jade, ae2,
+    aeinfinitybooster, ae2wtlib, expatternprovider, ae2things, polyeng, arseng, merequester,
+    forbidden_arcanus, theurgy, nethersdelight, quark, supplementaries, allthecompressed,
+    chemlib, enderchests, jei_mekanism_multiblocks, appbot, modonomicon, rsinsertexportupgrade,
+    solcarrot, moredragoneggs, refinedstorageaddons, refinedpolymorph, appmek, ae2additions,
+    megacells, packetfixer, expandability]'
+max-bees-in-hive: 3
+enchantment-table-book-animation-tick: false
+networkmanager:
+  debug: false
+  intercept: []
+threadpriority:
+  server_thread: 8
+entity:
+  clear:
+    item:
+      enable: false
+      whitelist: []
+      msg: '[Server] Cleaned up %size% drop item'
+      time: 1800
+    monster:
+      enable: false
+      whitelist: []
+      msg: '[Server] Cleaned up %size% monster'
+      time: 1800
+ban:
+  item:
+    enable: false
+    list: []
+  entity:
+    enable: false
+    list: []
+  enchantment:
+    enable: false
+    list: []
+motd:
+  enable: true
+  firstline: §a<Hisingen Island>
+  secondline: §4[SWE][EN] - §6[ATM9 - v0.2.56]
+settings:
+  messages:
+    ping-command-output: §2%s's ping is %sms
+events:
+  fire_tick: false
+forge:
+  bukkitpermissionshandler: true
+worldmanage: true
+velocity:
+  enabled: false
+  onlineMode: false
+  secret: ''
+recipe:
+  warn: false
+tpa:
+  enable: false
+back:
+  enable: false
+mohist:
+  show_logo: true
+  check_update: true
+  lang: en_GB
+  libraries:
+    check: true
+    downloadsource: AUTO
+  installation-finished: false
+  check_update_auto_download: false
+config-version: 1
+keepinventory:
+  global:
+    enable: false
+    inventory: true
+    exp: true
+  permission:
+    inventory: mohist.keepinventory.inventory
+    exp: mohist.keepinventory.exp
+  world:
+    inventory: false
+    exp: false

@@ -1,0 +1,78 @@
+worlds:
+  world-2:
+    worldborder: 5.9999968E7
+    seed: 5830974660445585823
+    environment: NORMAL
+    name: world-2
+    info: -/-
+    difficulty: EASY
+    mohist: false
+    keepspawninmemory: true
+  moon:
+    worldborder: 5.9999968E7
+  rune-1:
+    worldborder: 5.9999968E7
+  DIM1:
+    worldborder: 5.9999968E7
+  lantea:
+    worldborder: 5.9999968E7
+  earth_orbit:
+    worldborder: 5.9999968E7
+  the_beyond:
+    worldborder: 5.9999968E7
+  everbright:
+    worldborder: 5.9999968E7
+  reality_marble:
+    worldborder: 5.9999968E7
+  glacio:
+    worldborder: 5.9999968E7
+  mars:
+    worldborder: 5.9999968E7
+  mars_orbit:
+    worldborder: 5.9999968E7
+  myst:
+    worldborder: 5.9999968E7
+  dungeon:
+    worldborder: 5.9999968E7
+  glacio_orbit:
+    worldborder: 5.9999968E7
+  cavum_tenebrae:
+    worldborder: 5.9999968E7
+  the_aether:
+    worldborder: 5.9999968E7
+  abydos:
+    worldborder: 5.9999968E7
+  moon_orbit:
+    worldborder: 5.9999968E7
+  lostcity:
+    worldborder: 5.9999968E7
+  twilight_forest:
+    worldborder: 5.9999968E7
+  void:
+    worldborder: 5.9999968E7
+  everdawn:
+    worldborder: 5.9999968E7
+  the_other:
+    worldborder: 5.9999968E7
+  mercury:
+    worldborder: 5.9999968E7
+  mercury_orbit:
+    worldborder: 5.9999968E7
+  otherside:
+    worldborder: 5.9999968E7
+  DIM-1:
+    worldborder: 5.9999968E7
+  mining:
+    worldborder: 5.9999968E7
+  chulak:
+    worldborder: 5.9999968E7
+  undergarden:
+    worldborder: 5.9999968E7
+  venus:
+    worldborder: 5.9999968E7
+  power:
+    worldborder: 5.9999968E7
+  venus_orbit:
+    worldborder: 5.9999968E7
+  alfheim:
+    worldborder: 5.9999968E7

@@ -1,0 +1,140 @@
+6e508199-efe2-41e7-9099-99fb4a2a886c:
+  location:
+    ==: org.bukkit.Location
+    world: mining
+    x: 299.5
+    y: 253.0
+    z: 1916.5
+    pitch: 0.0
+    yaw: -138.17674
+  type: TELEPORT
+c1b678f1-f7c6-4e98-9758-b045b2af1a2d:
+  location:
+    ==: org.bukkit.Location
+    world: world-2
+    x: 426.2005995590849
+    y: 131.3665713732209
+    z: -987.3521218906685
+    pitch: 18.337683
+    yaw: 27.436096
+  type: TELEPORT
+bd9ccae3-bdb4-4b32-9647-b521b1837933:
+  location:
+    ==: org.bukkit.Location
+    world: moon_orbit
+    x: -828.8735253461045
+    y: 108.15004133132005
+    z: 1030.3768236867422
+    pitch: 49.199764
+    yaw: -25.199585
+  type: TELEPORT
+806dbf4b-010f-4763-ad5f-f166e40df1a7:
+  location:
+    ==: org.bukkit.Location
+    world: world-2
+    x: 3202.924411973789
+    y: 114.45206846682576
+    z: 1576.5583531613615
+    pitch: 16.349768
+    yaw: -131.00098
+  type: TELEPORT
+7d176f8e-5325-4dc3-a1a1-fae5f6589229:
+  location:
+    ==: org.bukkit.Location
+    world: world-2
+    x: -1282.5
+    y: 64.5
+    z: 3036.5
+    pitch: 12.900557
+    yaw: 148.49521
+  type: TELEPORT
+8a7368e5-bf1d-4d82-bf2f-4331b2035ed4:
+  location:
+    ==: org.bukkit.Location
+    world: world-2
+    x: 632.4081978537527
+    y: 73.0
+    z: 1783.4911214031042
+    pitch: 83.70359
+    yaw: 8.834839
+  type: TELEPORT
+4089066c-b9ad-43af-bb1f-0b3c72f94f71:
+  location:
+    ==: org.bukkit.Location
+    world: world-2
+    x: -471.5
+    y: 63.6875
+    z: 2578.5
+    pitch: 0.0
+    yaw: -178.62361
+  type: TELEPORT
+79ea9601-e7f7-4704-9fee-2380d4a7afe0:
+  location:
+    ==: org.bukkit.Location
+    world: moon_orbit
+    x: -828.29807451693
+    y: 90.69821148084732
+    z: 1030.3381345690302
+    pitch: 63.150253
+    yaw: -179.85194
+  type: TELEPORT
+4f40f62b-8e66-40ac-a324-93e36883b5e5:
+  location:
+    ==: org.bukkit.Location
+    world: world-2
+    x: -1278.816867792084
+    y: 53.7531999805212
+    z: 3035.4374175268204
+    pitch: 27.599813
+    yaw: 103.042175
+  type: TELEPORT
+28024959-0fa8-4681-a621-732ad0f3f54b:
+  location:
+    ==: org.bukkit.Location
+    world: world-2
+    x: -3255.983014610116
+    y: 77.0
+    z: -1543.6639895462429
+    pitch: 55.051064
+    yaw: -59.53293
+  type: TELEPORT
+c6b69cab-252f-4f75-8eb8-0472e5ec7447:
+  location:
+    ==: org.bukkit.Location
+    world: world-2
+    x: -25.447836378795618
+    y: 80.0
+    z: -72.1241638646092
+    pitch: 20.849394
+    yaw: -173.58759
+  type: TELEPORT
+f9bb213b-6f98-4b24-b986-d2a9ac7524fa:
+  location:
+    ==: org.bukkit.Location
+    world: world-2
+    x: -29.5
+    y: 100.0
+    z: -33.5
+    pitch: 27.15
+    yaw: 8.333959
+  type: TELEPORT
+6120031a-fc1f-4bf0-993e-70dac0bd971d:
+  location:
+    ==: org.bukkit.Location
+    world: world-2
+    x: 1833.5
+    y: 75.1
+    z: 1735.5
+    pitch: 34.860092
+    yaw: 90.372406
+  type: TELEPORT
+64032fca-a600-467a-bbd7-ef08e5372d1c:
+  location:
+    ==: org.bukkit.Location
+    world: world-2
+    x: 205.5
+    y: 66.1
+    z: -655.5
+    pitch: 20.549475
+    yaw: 92.66327
+  type: TELEPORT
