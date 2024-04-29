@@ -1,0 +1,13 @@
+[Unit]
+Description=My Bash Script Service
+After=network.target
+
+[Service]
+Type=simple
+User=niklas
+WorkingDirectory=/home/niklas/mc/spigot
+ExecStart=/home/niklas/mc/spigot/startserver.sh
+Restart=always
+
+[Install]
+WantedBy=multi-user.target
